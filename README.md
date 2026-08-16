@@ -43,8 +43,8 @@ A DIY Bench ATX Power Supply enclosure and front panel.
 - Basic Soldering & Electronics Tools
 
 ## Images
-
-<!-- Add project images here -->
+![3D MODEL Front](images/MODEL-FRONT.png)
+![3D MODEL Back](images/MODEL-BACK.png)
 
 ## License
 
